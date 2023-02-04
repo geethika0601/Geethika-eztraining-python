@@ -1,0 +1,23 @@
+oops-
+it's an efficient concept used in all objects oriented programming language like java and python for multiple reasons we use oops concept for code resuability,data security, hiding data
+
+
+CLASS:
+its's a blueprint
+ex:laptops
+
+OBJECT 
+IT'S a thing created based on class
+note:
+one class can have multiple objects
+ex: class:birds
+
+
+objects :
+parrot,peacock
+
+2)class
+laptop
+
+objects:
+hp,dell,macbook
