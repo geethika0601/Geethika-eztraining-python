@@ -1,0 +1,35 @@
+Binary tree:
+a node can have maximum 2 children
+
+
+binary tree traversal:
+1. pre order - root-left-right(DLR)
+2. in order - left-root-right(LDR)
+3. post-order - left-right-root(LRD)
+
+BFS breadth first search
+DFS depth first search
+
+BINARY TREE TYPES:
+1. full tree-nodes having 0 or 2 children 
+2. pathological tree or degenerate tree- nodes having 0 or 1 children
+3. skewed tree
+   1.left- all nodes are represented towards left
+   2.right- all nodes are represented towards right
+
+complete binary tree-
+conditions:
+1.every level should be full except the leaf node
+2.in last level if it is incomplete nodes should present at extreme left
+
+perfect binary tree
+conditions:
+1. all the internal nodes has two children and
+2. leaf nodes at both sides should be at same level
+
+balanced tree:
+for all the nodes (height of left sub tree ) - (height of right sub tree) can be 0 or 1
+
+BST:
+all the left side ele should be less than root
+all the right side ele should be more than root
